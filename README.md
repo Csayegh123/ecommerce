@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 13_ECommerce
 
 ## Your Task
@@ -105,7 +104,3 @@ Testing: no testing is required
 Here is a link to my github for more information: [Github]: https://github.com/csayegh123
 
 You can reach me with any additional questions by email: sayegh.topher@gmail.com
-=======
-![13-orm-homework-demo-02](https://user-images.githubusercontent.com/58535174/122144278-c7b50b80-ce18-11eb-9f9d-699b2e6ffc95.gif)
-# ecommerce
->>>>>>> 7624b132d25e01e32b4da15ad4c910abd06ee278
