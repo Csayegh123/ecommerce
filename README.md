@@ -1,6 +1,6 @@
 # e-commerce-back-end
 
-[Link to video demonstration of application](https://drive.google.com/file/d/1ARDisqydgyB3bUVvNa4mzKBcyYFW4j__/view)
+[Link to video demonstration of application](https://drive.google.com/file/d/13zIa7PUMeqNCZOQTUaSAtGpFroRxyLuW/view?usp=sharing)
 
 ## Description
 
@@ -64,4 +64,4 @@ npm start
 
 Insomnia core is recommended to test each endpoint as this application has no functional front end currently.
 
-[Here is a video demonstration of the application in use](https://drive.google.com/file/d/1ARDisqydgyB3bUVvNa4mzKBcyYFW4j__/view)
+[Here is a video demonstration of the application in use](https://drive.google.com/file/d/13zIa7PUMeqNCZOQTUaSAtGpFroRxyLuW/view?usp=sharing)
