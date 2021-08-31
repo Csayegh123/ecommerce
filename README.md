@@ -1,3 +1,8 @@
+
+
+TESTING BACKEND WITH INSONMIA VIDEO: https://drive.google.com/file/d/12LQoZhvNUbV9Eg9u2Jg4Ytmin4W4_n-h/view?usp=sharing
+PICTURE OF tabs in Mysql workbench: https://drive.google.com/file/d/1MC60rwVG8IfKqYFdFWhW7EmYmXR_biZI/view?usp=sharing
+
 # 13 Object-Relational Mapping: E-Commerce Back End
 
 ## Description
@@ -69,7 +74,7 @@ npm i dotenv
 npm i mysql2
 ```
 
-Next, review the database connection parameters contained in the **.env** file and adjust them appropriately. A video demonstrating the structure of this file is provided [here](https://drive.google.com/file/d/1H1QxMmQ2VGIOGdsv1L2Kw3DSkkTOlBN5/view).
+Next, review the database connection parameters contained in the **.env** file and adjust them appropriately. A video demonstrating the structure of this file is provided 
 
 Using MySQL console, or a tool like MySQL Workbench, run the **schema.sql** script to create the **ecommerce_db** database; the file can be located in the following location:
 
@@ -77,7 +82,7 @@ Using MySQL console, or a tool like MySQL Workbench, run the **schema.sql** scri
 db/schema.sql
 ```
 
-A video demonstrating how to create the database schema from the MySQL shell is provided [here](https://drive.google.com/file/d/1XDstDm5OJD8ybH3d6cyTK59tuLHkp-Od/view).
+
 
 Finally, the following command must be run to seed the database with sample data:
 
@@ -91,7 +96,7 @@ Or,
 node seeds/index.js
 ```
 
-A video demonstrating how to seed the database from the command line is provided [here](https://drive.google.com/file/d/1cxB7I41wX6AWwSDz2RDOpIf9_2EbgBuZ/view).
+
 
 Once the database is created and seeded with sample data, run the following command to start the application:
 
@@ -99,7 +104,7 @@ Once the database is created and seeded with sample data, run the following comm
 node server.js
 ```
 
-Watch a video demonstrating how to start the application and synchronize the models to the MySQL database [here](https://drive.google.com/file/d/1FW3aymd95Fb1b-jld2spHFBqcV22KwbW/view).
+
 
 ## Usage
 
@@ -109,29 +114,7 @@ As stated before, the application only includes _backend_ features; so, to test 
 
 Examples of how to use the application are provided in the following videos:
 
-- [Categories](https://drive.google.com/file/d/1r2W0Xf9NQAyH0EK3gmUQVqBgdLFj-ker/view)
 
-  - GET All Categories
-  - GET Category By Id
-  - POST Category
-  - PUT Category
-  - DELETE Category
-
-- [Products](https://drive.google.com/file/d/1Pjvj_3p1ZmmNiYwMhjF5DNFFZ45C7N87/view)
-
-  - GET All Products
-  - GET Product By Id
-  - POST Product
-  - PUT Product
-  - DELETE Product
-
-- [Tags](https://drive.google.com/file/d/1zNx3gH2KgXksgmr_AAe48F1O0lLuiQTf/view)
-
-  - GET All Tags
-  - GET Tag By Id
-  - POST Tag
-  - PUT Tag
-  - DELETE Tag
 
 ## License
 
@@ -145,12 +128,4 @@ Want to contribute to this project? You may clone or fork the project in GitHub.
 
 For questions, comments, or suggestions, please contact me by E-Mail:
 
-japinell@yahoo.com
-
-Check out my other **cool** projects in GitHub - https://github.com/japinell
-
-## License
-
-This application is licensed under the following license:
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)(https://opensource.org/licenses/MIT)
+sayegh.topher@gmail.com
